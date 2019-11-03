@@ -1,0 +1,5 @@
+name: web-scraper
+dependencies:
+- python=3.7
+- numpy
+- anaconda
